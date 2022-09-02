@@ -4,13 +4,7 @@ description: Система статусов гражданина
 
 # Статусы заявки
 
-### **Во Flow существует 3 вида статусов гражданина.** <a href="#vo-flow-sushestvuet-3-vida-statusov-grazhdanina." id="vo-flow-sushestvuet-3-vida-statusov-grazhdanina."></a>
-
-Статус гражданина на портале  «**Работа в России».**
-
-Статус гражданина в **LMS Odin**.
-
-Статус гражданина во **Flow**.
+### **Во Flow существует 3 вида статусов гражданина:** <a href="#vo-flow-sushestvuet-3-vida-statusov-grazhdanina." id="vo-flow-sushestvuet-3-vida-statusov-grazhdanina."></a>
 
 <details>
 
@@ -77,3 +71,4 @@ description: Система статусов гражданина
 
 </details>
 
+Для максимальной наглядности и понимания системы статусов прикладываем следующую [диаграмму](https://cacoo.com/diagrams/kpKZW4u9o09iCCFB/246EC).&#x20;

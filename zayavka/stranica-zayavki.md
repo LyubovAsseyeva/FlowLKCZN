@@ -2,7 +2,7 @@
 
 ### **Страница заявки разделена на 5 блоков**
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (10).png>)
 
 <details>
 

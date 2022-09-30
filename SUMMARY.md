@@ -9,6 +9,7 @@
 * [Статусы заявки](tablica-zayavok/statusy-zayavki.md)
 * [Статус ЦЗН](tablica-zayavok/status-czn.md)
 * [Настраиваемый список заявок](tablica-zayavok/nastraivaemyi-spisok-zayavok.md)
+* [Исчерпана квота на обучение](tablica-zayavok/ischerpana-kvota-na-obuchenie.md)
 
 ## Заявка
 

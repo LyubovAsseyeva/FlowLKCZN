@@ -2,14 +2,12 @@
 
 * [Добро пожаловать во Flow](README.md)
 
-## Таблица заявок
+## Работа с заявками
 
-* [Поля в таблице заявок](tablica-zayavok/polya-v-tablice-zayavok.md)
-* [Справка об успеваемости/посещаемости](tablica-zayavok/spravka-ob-uspevaemosti-poseshaemosti.md)
-* [Статусы заявки](tablica-zayavok/statusy-zayavki.md)
-* [Статус ЦЗН](tablica-zayavok/status-czn.md)
-* [Настраиваемый список заявок](tablica-zayavok/nastraivaemyi-spisok-zayavok.md)
-* [Исчерпана квота на обучение](tablica-zayavok/ischerpana-kvota-na-obuchenie.md)
+* [Настраиваемый список заявок](rabota-s-zayavkami/nastraivaemyi-spisok-zayavok.md)
+* [Статусы заявки](rabota-s-zayavkami/statusy-zayavki.md)
+* [Статус ЦЗН](rabota-s-zayavkami/status-czn.md)
+* [Справка об успеваемости/посещаемости](rabota-s-zayavkami/spravka-ob-uspevaemosti-poseshaemosti.md)
 
 ## Заявка
 

@@ -2,6 +2,10 @@
 
 * [Добро пожаловать во Flow](README.md)
 
+## Заявка
+
+* [Страница заявки](zayavka/stranica-zayavki.md)
+
 ## Работа с заявками
 
 * [Настраиваемый список заявок](rabota-s-zayavkami/nastraivaemyi-spisok-zayavok.md)
@@ -9,10 +13,6 @@
 * [Статус ЦЗН](rabota-s-zayavkami/status-czn.md)
 * [Справка об успеваемости/посещаемости](rabota-s-zayavkami/spravka-ob-uspevaemosti-poseshaemosti.md)
 * [Выгрузка данных в Excel](rabota-s-zayavkami/vygruzka-dannykh-v-excel.md)
-
-## Заявка
-
-* [Страница заявки](zayavka/stranica-zayavki.md)
 
 ## Выбор периода обучения
 

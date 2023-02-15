@@ -4,7 +4,7 @@
 
 Перейдите в Работа с заявками - Заявки, в поле **Столбцы** выберите те столбцы, которые должны попасть в выгрузку. Установите фильтры (Больше фильров вы можете найти в Расширенных настройках) и нажмите кнопку "Применить настройки".&#x20;
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 После того как вы нажмете на кнопку "Применить настройки" список заявок будет отфильтрован <mark style="background-color:red;">( на стадии доработки)</mark>. \
 Затем нажмите кнопку "Выгрузка заявок в Excel":
@@ -14,4 +14,4 @@
 * Если список будет содержать более 1000 заявок, то системой будет предложено ввести почту, куда будет направлен файл с заявками.<mark style="background-color:red;">( на стадии доработки)</mark>.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

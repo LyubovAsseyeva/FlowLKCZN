@@ -21,6 +21,7 @@
 
 ## ⁉ Часто задаваемые вопросы
 
+* [Активная и неактивная заявки, что это в чём разница?](chasto-zadavaemye-voprosy/aktivnaya-i-neaktivnaya-zayavki-chto-eto-v-chyom-raznica.md)
 * [Не пришла ссылка для входа. Что делать?](chasto-zadavaemye-voprosy/ne-prishla-ssylka-dlya-vkhoda.-chto-delat.md)
 * [Как мне узнать свой логин и пароль](chasto-zadavaemye-voprosy/kak-mne-uznat-svoi-login-i-parol.md)
 * [Про сканы документов](chasto-zadavaemye-voprosy/pro-skany-dokumentov.md)

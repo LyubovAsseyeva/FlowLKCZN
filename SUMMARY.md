@@ -22,3 +22,4 @@
 ## ⁉ Часто задаваемые вопросы
 
 * [Не пришла ссылка для входа. Что делать?](chasto-zadavaemye-voprosy/ne-prishla-ssylka-dlya-vkhoda.-chto-delat.md)
+* [Про сканы документов](chasto-zadavaemye-voprosy/pro-skany-dokumentov.md)

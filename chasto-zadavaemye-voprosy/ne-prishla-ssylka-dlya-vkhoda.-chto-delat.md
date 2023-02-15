@@ -10,6 +10,6 @@
 
 Если вы ввели адрес электронной почты и получили сообщение "Пользователь не найден", значит, вас ещё не зарегистрировали или в вашей почте ошибка. Узнать, зарегистрирован ли вы, возможно в технической поддержке по ссылке [https://tgu-dpo.ru/form](https://tgu-dpo.ru/form)
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 3. Настройки вашего почтового домена не пропускают письма от info@tgu-dpo.ru (вы пытаетесь восстановить пароль по ссылке [https://2023.flow.tgu-dpo.ru/Account/ForgotPassword](https://2023.flow.tgu-dpo.ru/Account/ForgotPassword), письмо отправляется, но его в почтовом ящике), в этом случае необходимо написать нам  [https://tgu-dpo.ru/form](https://tgu-dpo.ru/form) для замены почты в вашем профиле, мы согласуем замену с руководителем  отдела по работе с РОИВ, заменим адрес электронной почты и вышлем на него письмо со ссылкой на установку пароля.&#x20;

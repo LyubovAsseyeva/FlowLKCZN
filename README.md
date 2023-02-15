@@ -12,9 +12,11 @@ description: Личный кабинет представителя СЗН
 
 ![ Письмо придёт с таким заголовком](<.gitbook/assets/image (4).png>)
 
-Логин  - указанная электронная почта.
+Логин  - электронная почта, на которую пришло письмо.
 
 Ссылка для входа -[ ](https://2023.flow.tgu-dpo.ru/Account/Login)[https://2023.flow.tgu-dpo.ru/Account/Login](https://2023.flow.tgu-dpo.ru/Account/Login)
+
+{% embed url="https://youtu.be/KloBtbz6C1U" %}
 
 ### Начало работы
 

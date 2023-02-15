@@ -18,3 +18,8 @@
 ## Выбор периода обучения
 
 * [Схема выбора доступного периода обучения](vybor-perioda-obucheniya/skhema-vybora-dostupnogo-perioda-obucheniya.md)
+
+## ⁉ Часто задаваемые вопросы
+
+* [Не пришла ссылка для входа. Что делать?](chasto-zadavaemye-voprosy/ne-prishla-ssylka-dlya-vkhoda.-chto-delat.md)
+* [Схема выбора доступного периода обучения](chasto-zadavaemye-voprosy/skhema-vybora-dostupnogo-perioda-obucheniya.md)

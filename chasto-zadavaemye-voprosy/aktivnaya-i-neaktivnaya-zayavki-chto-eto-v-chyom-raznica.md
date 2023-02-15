@@ -12,4 +12,4 @@
 Пользователям системы необходимо быстро отличать заявку, с которой необходимо работать от остальных заявок гражданина, поэтому появилась отметка Активная заявка.&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

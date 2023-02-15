@@ -22,4 +22,5 @@
 ## ⁉ Часто задаваемые вопросы
 
 * [Не пришла ссылка для входа. Что делать?](chasto-zadavaemye-voprosy/ne-prishla-ssylka-dlya-vkhoda.-chto-delat.md)
+* [Как мне узнать свой логин и пароль](chasto-zadavaemye-voprosy/kak-mne-uznat-svoi-login-i-parol.md)
 * [Про сканы документов](chasto-zadavaemye-voprosy/pro-skany-dokumentov.md)

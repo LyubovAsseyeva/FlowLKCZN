@@ -14,7 +14,7 @@ description: Личный кабинет представителя СЗН
 
 Логин  - указанная электронная почта.
 
-Ссылка для входа - [https://university.tgu-dpo.ru/Account/Login](https://university.tgu-dpo.ru/Account/Login)
+Ссылка для входа -[ ](https://2023.flow.tgu-dpo.ru/Account/Login)[https://2023.flow.tgu-dpo.ru/Account/Login](https://2023.flow.tgu-dpo.ru/Account/Login)
 
 ### Начало работы
 

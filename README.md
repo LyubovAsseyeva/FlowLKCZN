@@ -16,6 +16,10 @@ description: Личный кабинет представителя СЗН
 
 Ссылка для входа -[ ](https://2023.flow.tgu-dpo.ru/Account/Login)[https://2023.flow.tgu-dpo.ru/Account/Login](https://2023.flow.tgu-dpo.ru/Account/Login)
 
+{% hint style="info" %}
+Ссылка на вход действует 5 суток, если за это время вы не перешли по ней, запросите новую ссылку через восстановление пароля. [https://2023.flow.tgu-dpo.ru/Account/ForgotPassword](https://2023.flow.tgu-dpo.ru/Account/ForgotPassword)
+{% endhint %}
+
 {% embed url="https://youtu.be/KloBtbz6C1U" %}
 
 ### Начало работы

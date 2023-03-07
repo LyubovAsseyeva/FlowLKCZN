@@ -127,6 +127,6 @@
 
 {% embed url="https://youtu.be/r9Cpyun3d6A" %}
 
-{% content-ref url="../rabota-s-zayavkami/statusy-zayavok.md" %}
-[statusy-zayavok.md](../rabota-s-zayavkami/statusy-zayavok.md)
+{% content-ref url="../rabota-s-zayavkami/statusy-zayavki.md" %}
+[statusy-zayavki.md](../rabota-s-zayavkami/statusy-zayavki.md)
 {% endcontent-ref %}

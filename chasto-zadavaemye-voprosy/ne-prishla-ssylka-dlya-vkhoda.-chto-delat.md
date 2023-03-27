@@ -6,7 +6,7 @@
 
 2. Если письмо не нашлось - попробуйте перейти по ссылке и запросить [https://2023.flow.tgu-dpo.ru/Account/ForgotPassword](https://2023.flow.tgu-dpo.ru/Account/ForgotPassword) запросить ссылку для восстановления пароля. На вашу почту придет письмо со ссылкой на установку пароля. [Подробнее](../#registraciya).
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 Если вы ввели адрес электронной почты и получили сообщение "Пользователь не найден", значит, вас ещё не зарегистрировали или в вашей почте ошибка. Узнать, зарегистрированы ли вы, возможно в технической поддержке по ссылке [https://tgu-dpo.ru/form](https://tgu-dpo.ru/form)
 

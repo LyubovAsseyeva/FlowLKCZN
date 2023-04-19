@@ -121,11 +121,15 @@
 
 Документ о трудоустройстве
 
-****
+
 
 </details>
 
 {% embed url="https://youtu.be/r9Cpyun3d6A" %}
+
+{% hint style="success" %}
+Добавлен 5 блок - комментарии заявки, где вы можете посомтреть какие комментарии были оставлены в ходе работы с заявкой гражданина. Возможно, это поможет ответить на вопросы, если они будут направлены в ЦЗН.
+{% endhint %}
 
 {% content-ref url="../rabota-s-zayavkami/statusy-zayavki.md" %}
 [statusy-zayavki.md](../rabota-s-zayavkami/statusy-zayavki.md)

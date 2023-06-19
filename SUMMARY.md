@@ -18,6 +18,11 @@
 
 * [Схема выбора доступного периода обучения](vybor-perioda-obucheniya/skhema-vybora-dostupnogo-perioda-obucheniya.md)
 
+## Новые регионы
+
+* [Работа с заявками ЦЗН новых субьектов](novye-regiony/rabota-s-zayavkami-czn-novykh-subektov.md)
+* [Работа с заявками ЦЗН-кураторы новых субьектов](novye-regiony/rabota-s-zayavkami-czn-kuratory-novykh-subektov.md)
+
 ## ⁉ Часто задаваемые вопросы
 
 * [Не пришла ссылка для входа. Что делать?](chasto-zadavaemye-voprosy/ne-prishla-ssylka-dlya-vkhoda.-chto-delat.md)

@@ -6,7 +6,7 @@
 * Нажать кнопку Signatures (Подписи) в панели слева
 * Выбрать электронную подпись, которую следует проверить, и нажать правую кнопку мыши. В открывшемся контекстном меню выбрать пункт Validate Signature (Проверить подпись).
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -14,7 +14,7 @@
 
 Подпись будет иметь один из следующих статусов:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Если установлен КриптоПро PDF, то можно локально через Adobe Acrobat также  смотреть ЭП.

@@ -18,10 +18,10 @@
 
 * [Схема выбора доступного периода обучения](vybor-perioda-obucheniya/skhema-vybora-dostupnogo-perioda-obucheniya.md)
 
-## Новые регионы
+## Новые регионы. Одобрение заявок
 
-* [Работа с заявками ЦЗН новых субъектов](novye-regiony/rabota-s-zayavkami-czn-novykh-subektov.md)
-* [Работа с заявками ЦЗН-кураторы новых субъектов](novye-regiony/rabota-s-zayavkami-czn-kuratory-novykh-subektov.md)
+* [Работа с заявками ЦЗН новых субъектов](novye-regiony.-odobrenie-zayavok/rabota-s-zayavkami-czn-novykh-subektov.md)
+* [Работа с заявками ЦЗН-кураторы новых субъектов](novye-regiony.-odobrenie-zayavok/rabota-s-zayavkami-czn-kuratory-novykh-subektov.md)
 
 ## ⁉ Часто задаваемые вопросы
 

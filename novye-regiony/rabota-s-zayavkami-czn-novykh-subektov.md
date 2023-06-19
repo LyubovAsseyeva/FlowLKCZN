@@ -25,7 +25,7 @@ description: >-
 Статус ЦЗН - все новые заявки для ЦЗН будут в статусе "На рассмотрении"
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 3. Нажмите на кнопку "Применить настройки".\
    Столбец "Статус  решения по заявке" имеет стедующие статусы:
@@ -35,6 +35,26 @@ description: >-
    4. Рекомендовано сменить программу. Гражданин отменяет заявку на портале Работа России и подаёт заявку на рекомендованную программу.
 4. Перейдите в заявку, кликнув по номеру.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-5. Нажмите на кнопку
+5. Нажмите на кнопку "Принять решение по заявке".
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+6. Заполнить информацию о подтверждении категории гражданина&#x20;
+
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+
+6.1 В случае выбора  "Да" заявку необходимо Одобрить/Отклонить/Рекомендовать сменить программу обучения
+
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+
+6.2 В случае выбора "Нет" укажите причину.
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+На этом работа по одобрению/отклонению заявки во Flow для представителей ЦЗН новых субъектов заканчивается и приступают к работе кураторы. [Подробнее](rabota-s-zayavkami-czn-kuratory-novykh-subektov.md)
+
+<img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>

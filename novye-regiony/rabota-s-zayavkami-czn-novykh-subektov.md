@@ -25,17 +25,17 @@ description: >-
 Статус ЦЗН - все новые заявки для ЦЗН будут в статусе "На рассмотрении"
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 3. Нажмите на кнопку "Применить настройки".\
-   Столбец "Статус  решения по заявке" имеет стедующие статусы:
-   1. Без статуса  - новая заявка
-   2. Одобрить - по заявке принято решение "Одобрить", далее ЦЗН-куратор одобрит такую заявку на портале Работа России.
+   Столбец "Статус  решения по заявке" имеет следующие статусы:
+   1. Без статуса  - новая заявка, по которой пока не принято решение.
+   2. Одобрить - по заявке принято решение "Одобрить", далее СЗН-куратор одобрит такую заявку на портале Работа России.
    3. Отклонить - по заявке принято решение "Отклонить"
    4. Рекомендовано сменить программу. Гражданин отменяет заявку на портале Работа России и подаёт заявку на рекомендованную программу.
 4. Перейдите в заявку, кликнув по номеру.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 5. Нажмите на кнопку "Принять решение по заявке".
 
@@ -43,32 +43,30 @@ description: >-
 
 6. Заполнить информацию о подтверждении категории гражданина&#x20;
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 6.1 В случае выбора  "**Да**" заявку необходимо Одобрить/Отклонить/Рекомендовать сменить программу обучения
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 6.2 В случае выбора "**Нет**" укажите причину.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Для некоторых категории, например, женщины имеющие детей дошкольного возраста необходимо заполнить больше полей при одобрении заявки.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 На этом работа по одобрению/отклонению заявки во Flow для представителей ЦЗН новых субъектов заканчивается и приступают к работе кураторы. [Подробнее](rabota-s-zayavkami-czn-kuratory-novykh-subektov.md)
-
-
 
 <img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
 Не странице Завчки кнопка "Принять решение по заявке" будет изменена на "Посмотреть решение по заявке".
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 В настраиваемом списке в столбце "Статус решения по заявке" появится информаци о принятом решении.
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>

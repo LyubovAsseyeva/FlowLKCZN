@@ -20,8 +20,8 @@
 
 ## Новые регионы
 
-* [Работа с заявками ЦЗН новых субьектов](novye-regiony/rabota-s-zayavkami-czn-novykh-subektov.md)
-* [Работа с заявками ЦЗН-кураторы новых субьектов](novye-regiony/rabota-s-zayavkami-czn-kuratory-novykh-subektov.md)
+* [Работа с заявками ЦЗН новых субъектов](novye-regiony/rabota-s-zayavkami-czn-novykh-subektov.md)
+* [Работа с заявками ЦЗН-кураторы новых субъектов](novye-regiony/rabota-s-zayavkami-czn-kuratory-novykh-subektov.md)
 
 ## ⁉ Часто задаваемые вопросы
 

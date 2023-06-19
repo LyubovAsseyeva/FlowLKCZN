@@ -4,7 +4,7 @@ description: >-
   Flow
 ---
 
-# Работа с заявками ЦЗН новых субьектов
+# Работа с заявками ЦЗН новых субъектов
 
 {% hint style="info" %}
 После регистрации представители ЦЗН новых регионов получают доступ к заявкам, поданным гражданами на портале Работа России.
@@ -43,7 +43,7 @@ description: >-
 
 6. Заполнить информацию о подтверждении категории гражданина&#x20;
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 6.1 В случае выбора  "Да" заявку необходимо Одобрить/Отклонить/Рекомендовать сменить программу обучения
 
@@ -59,7 +59,7 @@ description: >-
 
 Не странице Завчки кнопка "Принять решение по заявке" будет изменена на "Посмотреть решение по заявке".
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 В настраиваемом списке в столбце "Статус решения по заявке" появится информаци о принятом решении.
 

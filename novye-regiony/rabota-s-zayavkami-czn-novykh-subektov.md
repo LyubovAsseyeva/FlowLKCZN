@@ -57,4 +57,10 @@ description: >-
 
 <img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
+Не странице Завчки кнопка "Принять решение по заявке" будет изменена на "Посмотреть решение по заявке".
+
 <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+
+В настраиваемом списке в столбце "Статус решения по заявке" появится информаци о принятом решении.
+
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>

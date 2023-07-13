@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Добро пожаловать во Flow!](README.md)
+* [Дашборд](dashbord.md)
 
 ## Заявка
 

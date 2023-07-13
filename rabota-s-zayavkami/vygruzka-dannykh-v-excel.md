@@ -14,4 +14,4 @@
 * Если список будет содержать более 1000 заявок, то системой будет предложено ввести почту, куда будет направлен файл с заявками.<mark style="background-color:red;">( на стадии доработки)</mark>.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>

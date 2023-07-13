@@ -21,7 +21,7 @@ description: >-
 Для ЦЗН/СЗН новых субъектов основным для принятия решения по заявке будет столбец "Статус решения по заявке"
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Нажмите на кнопку "Применить настройки".\
    Столбец "Статус  решения по заявке" имеет следующие статусы:
@@ -31,11 +31,11 @@ description: >-
    4. Рекомендовано сменить программу - гражданин отменяет заявку на портале Работа России и подаёт заявку на рекомендованную программу.
 4. Перейдите в заявку, кликнув по номеру.
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (2).png" alt=""><figcaption></figcaption></figure>
 
 5. Нажмите на кнопку "Принять решение по заявке".
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. Заполните информацию о подтверждении категории гражданина.
 
@@ -47,7 +47,7 @@ description: >-
 
 6.2 В случае выбора "**Нет**" укажите причину.
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Для некоторых категорий, например, "женщины, имеющие детей дошкольного возраста", необходимо заполнить больше полей при одобрении заявки.

@@ -4,7 +4,7 @@
 
 &#x20;1\. Скорей всего письмо попало в Спам в вашем почтовом ящике.  Поищите его по почте отправителя: info@tgu-dpo.ru.
 
-2. Если письмо не нашлось - попробуйте перейти по ссылке и запросить [https://2023.flow.tgu-dpo.ru/Account/ForgotPassword](https://2023.flow.tgu-dpo.ru/Account/ForgotPassword) запросить ссылку для восстановления пароля. На вашу почту придет письмо со ссылкой на установку пароля. [Подробнее](../#registraciya).
+2. Если письмо не нашлось - попробуйте перейти по ссылке и запросить [https://2023.flow.tgu-dpo.ru/Account/ForgotPassword](https://2023.flow.tgu-dpo.ru/Account/ForgotPassword) для ФО ТГУ и [https://flow.firpo.info/Account/ForgotPassword](https://flow.firpo.info/Account/ForgotPassword) для ФО ИРПО и запросить ссылку для восстановления пароля. На вашу почту придет письмо со ссылкой на установку пароля. [Подробнее](../#registraciya).
 
 <figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -12,6 +12,4 @@
 
 <figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
-3. Настройки вашего почтового домена не пропускают письма от info@tgu-dpo.ru (вы пытаетесь восстановить пароль по ссылке [https://2023.flow.tgu-dpo.ru/Account/ForgotPassword](https://2023.flow.tgu-dpo.ru/Account/ForgotPassword), письмо отправляется, но его в почтовом ящике нет), в этом случае необходимо написать на [cc@dpo.tsu.ru](mailto:cc@dpo.tsu.ru) письмо для замены рабочей почты на личную в вашем профиле. Бланк для заполнения ниже. Замена будет согласована и на новый адрес электронной почты и будет выслано письмо со ссылкой на установку пароля.&#x20;
-
-{% file src="../.gitbook/assets/Доступ в ЛК ЦЗН Flow (образец).doc" %}
+3. Настройки вашего почтового домена не пропускают письма от info@tgu-dpo.ru или noreply@firpo.info (вы пытаетесь восстановить пароль по ссылке [https://2023.flow.tgu-dpo.ru/Account/ForgotPassword](https://2023.flow.tgu-dpo.ru/Account/ForgotPassword)  или [https://flow.firpo.info/Account/ForgotPassword](https://flow.firpo.info/Account/ForgotPassword), письмо отправляется, но его в почтовом ящике нет), в этом случае необходимо написать на [cc@dpo.tsu.ru](mailto:cc@dpo.tsu.ru)  или [https://support.firpo.info/](https://support.firpo.info/)  (куда написать письмо зависит от Федерального оператора, в чей кабинет просите доступ) письмо для замены рабочей почты на личную в вашем профиле. Бланк для заполнения ниже. Замена будет согласована и на новый адрес электронной почты будет выслано письмо со ссылкой на установку пароля.&#x20;

@@ -17,7 +17,7 @@
 
 ## Программы
 
-* [Page 1](programmy/page-1.md)
+* [Отображение одобренных программ для РОИВ](programmy/otobrazhenie-odobrennykh-programm-dlya-roiv.md)
 
 ## Новые регионы. Одобрение заявок
 

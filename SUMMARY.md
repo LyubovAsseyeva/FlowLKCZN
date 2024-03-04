@@ -15,16 +15,16 @@
 * [Справка об успеваемости/посещаемости](rabota-s-zayavkami/spravka-ob-uspevaemosti-poseshaemosti.md)
 * [Выгрузка данных в Excel](rabota-s-zayavkami/vygruzka-dannykh-v-excel.md)
 
-## Выбор периода обучения
+## Программы
 
-* [Схема выбора доступного периода обучения](vybor-perioda-obucheniya/skhema-vybora-dostupnogo-perioda-obucheniya.md)
+* [Page 1](programmy/page-1.md)
 
 ## Новые регионы. Одобрение заявок
 
 * [Работа с заявками ЦЗН новых субъектов](novye-regiony.-odobrenie-zayavok/rabota-s-zayavkami-czn-novykh-subektov.md)
 * [Работа с заявками ЦЗН - кураторы новых субъектов](novye-regiony.-odobrenie-zayavok/rabota-s-zayavkami-czn-kuratory-novykh-subektov.md)
 
-## ⁉ Часто задаваемые вопросы
+## ⁉️ Часто задаваемые вопросы
 
 * [Не пришла ссылка для входа. Что делать?](chasto-zadavaemye-voprosy/ne-prishla-ssylka-dlya-vkhoda.-chto-delat.md)
 * [Как мне узнать свой логин и пароль](chasto-zadavaemye-voprosy/kak-mne-uznat-svoi-login-i-parol.md)

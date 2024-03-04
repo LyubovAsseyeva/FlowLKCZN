@@ -6,9 +6,7 @@ description: Личный кабинет представителя СЗН
 
 ### Регистрация
 
-Регистрация в системе закрытая. Строго по списку, предоставленному в отдел по работе с СЗН. Адрес, по которому необходимо подать запрос на регистрацию: [cc@dpo.tsu.ru](mailto:cc@dpo.tsu.ru) для Федерального оператора ТГУ
-
-и **адрес уточняется** для Федерального оператора ИРПО.
+Регистрация в системе закрытая. Строго по списку, предоставленному в отдел по работе с СЗН. Адрес, по которому необходимо подать запрос на регистрацию: [cc@dpo.tsu.ru](mailto:cc@dpo.tsu.ru) для Федерального оператора ТГУ.
 
 По предоставленному списку  для каждого региона будет зарегистрирован представитель. После регистрации ему на почту будет отправлено письмо со ссылкой для установки пароля.
 
@@ -16,14 +14,10 @@ description: Личный кабинет представителя СЗН
 
 Логин  - электронная почта, на которую пришло письмо.
 
-Ссылка для входа в личный кабинет ФО ТГУ -[ ](https://2023.flow.tgu-dpo.ru/Account/Login)[https://2023.flow.tgu-dpo.ru/Account/Login](https://2023.flow.tgu-dpo.ru/Account/Login)
-
-Ссылка для входа в личный кабинет ФО ИРПО [https://flow.firpo.info/Account/Login](https://flow.firpo.info/Account/Login)
+Ссылка для входа в личный кабинет ФО ТГУ -[ ](https://2023.flow.tgu-dpo.ru/Account/Login)[https://2024.flow.tgu-dpo.ru/Account/Login](https://2024.flow.tgu-dpo.ru/Account/Login)
 
 {% hint style="info" %}
-Ссылка на вход действует 5 суток, если за это время вы не перешли по ней, запросите новую ссылку через восстановление пароля. [https://2023.flow.tgu-dpo.ru/Account/ForgotPassword](https://2023.flow.tgu-dpo.ru/Account/ForgotPassword) для ТГУ
-
-[https://flow.firpo.info/Account/ForgotPassword](https://flow.firpo.info/Account/ForgotPassword) для ИРПО
+Ссылка на вход действует 5 суток, если за это время вы не перешли по ней, запросите новую ссылку через восстановление пароля [https://2024.flow.tgu-dpo.ru/Account/ForgotPassword](https://2024.flow.tgu-dpo.ru/Account/ForgotPassword)
 {% endhint %}
 
 {% embed url="https://youtu.be/KloBtbz6C1U" %}

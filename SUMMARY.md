@@ -11,7 +11,6 @@
 
 * [Настраиваемый список заявок](rabota-s-zayavkami/nastraivaemyi-spisok-zayavok.md)
 * [Статусы заявок](rabota-s-zayavkami/statusy-zayavki.md)
-* [Статус ЦЗН](rabota-s-zayavkami/status-czn.md)
 * [Справка об успеваемости/посещаемости](rabota-s-zayavkami/spravka-ob-uspevaemosti-poseshaemosti.md)
 * [Выгрузка данных в Excel](rabota-s-zayavkami/vygruzka-dannykh-v-excel.md)
 

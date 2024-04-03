@@ -31,3 +31,4 @@
 * [Какие документы отображаются в личной карточке гражданина?](chasto-zadavaemye-voprosy/kakie-dokumenty-otobrazhayutsya-v-lichnoi-kartochke-grazhdanina.md)
 * [Как проверить прикрепленную подпись?](chasto-zadavaemye-voprosy/kak-proverit-prikreplennuyu-podpis.md)
 * [Справка на ЛК гражданина](https://informa.gitbook.io/flow-kabinet-grazhdanina/)
+* [Инструкции Работа России](chasto-zadavaemye-voprosy/instrukcii-rabota-rossii.md)

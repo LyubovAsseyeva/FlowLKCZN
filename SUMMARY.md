@@ -17,6 +17,7 @@
 ## Программы
 
 * [Отображение одобренных программ для РОИВ](programmy/otobrazhenie-odobrennykh-programm-dlya-roiv.md)
+* [Отправка программ на портал РР](programmy/otpravka-programm-na-portal-rr.md)
 
 ## ⁉️ Часто задаваемые вопросы
 

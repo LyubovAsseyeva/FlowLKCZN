@@ -14,10 +14,10 @@ description: Личный кабинет представителя СЗН
 
 Логин  - электронная почта, на которую пришло письмо.
 
-Ссылка для входа в личный кабинет ФО ТГУ -[ ](https://2023.flow.tgu-dpo.ru/Account/Login)[https://2024.flow.tgu-dpo.ru/Account/Login](https://2024.flow.tgu-dpo.ru/Account/Login)
+Ссылка для входа в личный кабинет ФО ТГУ -[ ](https://2023.flow.tgu-dpo.ru/Account/Login)[https://2025.flow.tgu-dpo.ru/Account/Login](https://2025.flow.tgu-dpo.ru/Account/Login)
 
 {% hint style="info" %}
-Ссылка на вход действует 5 суток, если за это время вы не перешли по ней, запросите новую ссылку через восстановление пароля [https://2024.flow.tgu-dpo.ru/Account/ForgotPassword](https://2024.flow.tgu-dpo.ru/Account/ForgotPassword)
+Ссылка на вход действует 5 суток, если за это время вы не перешли по ней, запросите новую ссылку через восстановление пароля https://2025.flow.tgu-dpo.ru/Account/ForgotPassword
 {% endhint %}
 
 {% embed url="https://youtu.be/KloBtbz6C1U" %}

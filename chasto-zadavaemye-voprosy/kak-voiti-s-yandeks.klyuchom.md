@@ -22,4 +22,4 @@ description: >-
 
 6. Для завершения настройки введите код, созданный Яндекс Ключом, в поле "Код подтверждения" во FLOW ТГУ.
 
-<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (34).png" alt="" width="289"><figcaption></figcaption></figure>

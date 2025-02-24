@@ -28,4 +28,4 @@
 * [Как проверить прикрепленную подпись?](chasto-zadavaemye-voprosy/kak-proverit-prikreplennuyu-podpis.md)
 * [Справка на ЛК гражданина](https://informa.gitbook.io/flow-kabinet-grazhdanina/)
 * [Инструкции Работа России](chasto-zadavaemye-voprosy/instrukcii-rabota-rossii.md)
-* [Как войти с Яндекс.Ключом](chasto-zadavaemye-voprosy/kak-voiti-s-yandeks.klyuchom.md)
+* [Как войти с Яндекс.Ключ](chasto-zadavaemye-voprosy/kak-voiti-s-yandeks.klyuch.md)

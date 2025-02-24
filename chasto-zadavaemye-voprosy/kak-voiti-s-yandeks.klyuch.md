@@ -4,7 +4,7 @@ description: >-
   Яндекс.Ключ
 ---
 
-# Как войти с Яндекс.Ключом
+# Как войти с Яндекс.Ключ
 
 1. Перейдите на [страницу авторизации](https://web.flow-crm.study/Account/Login1FA). Если авторизированы, то необходимо выйти.
 2. Введите логин и пароль от FLOW.
@@ -20,6 +20,6 @@ description: >-
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F1zOosC2CTOILDRF1eoGc%2Fuploads%2FEc8uRfN2kkKWbewSOsvO%2Fimage.png?alt=media&#x26;token=9b6f3c16-76c3-437e-bd47-1ab4d94a6da3" alt="" width="188"><figcaption></figcaption></figure>
 
-6. Для завершения настройки введите код, созданный Яндекс Ключом, в поле "Код подтверждения" во FLOW ТГУ.
+6. Для завершения настройки введите код, созданный Яндекс.Ключ, в поле "Код подтверждения" во FLOW ТГУ.
 
 <figure><img src="../.gitbook/assets/image (34).png" alt="" width="289"><figcaption></figcaption></figure>

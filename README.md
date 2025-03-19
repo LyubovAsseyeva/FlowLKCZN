@@ -17,7 +17,7 @@ description: Личный кабинет представителя СЗН
 Ссылка для входа в личный кабинет ФО ТГУ -[ ](https://2023.flow.tgu-dpo.ru/Account/Login)[https://2025.flow.tgu-dpo.ru/Account/Login](https://2025.flow.tgu-dpo.ru/Account/Login)
 
 {% hint style="info" %}
-Ссылка на вход действует 5 суток, если за это время вы не перешли по ней, запросите новую ссылку через восстановление пароля https://2025.flow.tgu-dpo.ru/Account/ForgotPassword
+Ссылка на вход действует 5 суток, если за это время вы не перешли по ней, запросите новую ссылку через восстановление пароля [https://2025.flow.tgu-dpo.ru/Account/ForgotPassword](https://2025.flow.tgu-dpo.ru/Account/ForgotPassword)
 {% endhint %}
 
 {% embed url="https://youtu.be/KloBtbz6C1U" %}
@@ -29,4 +29,4 @@ description: Личный кабинет представителя СЗН
 3. Откройте [страницу заявки](zayavka/stranica-zayavki.md).
 4. Посмотрите/скачайте приказ на зачисление/отчисление в блоке "[Обучение](zayavka/stranica-zayavki.md#stranica-zayavki-razdelena-na-4-bloka)".
 5. Посмотрите/скачайте документы гражданина в блоке "[Сканы документов](zayavka/stranica-zayavki.md#stranica-zayavki-razdelena-na-4-bloka)".&#x20;
-6. Посмотрите/скачайте справки об успеваемости/посещаемости в блоке "[Обучение](zayavka/stranica-zayavki.md#stranica-zayavki-razdelena-na-4-bloka)".
+

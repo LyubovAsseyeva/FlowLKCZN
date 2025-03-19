@@ -6,9 +6,10 @@ description: >-
 
 # Как войти с Яндекс.Ключ
 
-1. Перейдите на [страницу авторизации](https://web.flow-crm.study/Account/Login1FA). Если авторизированы, то необходимо выйти.
-2. Введите логин и пароль от FLOW.
-3. Если учетная запись ещё не привязана к Яндекс.Ключ, то отобразится QR код.
+1. Скачайте приложение Яндекс.Ключ на ваш смартфон, авторизируйтесь в приложении.
+2. Перейдите на [страницу авторизации](https://web.flow-crm.study/Account/Login1FA). Если авторизированы, то необходимо выйти.
+3. Введите логин и пароль от FLOW.
+4. Если учетная запись ещё не привязана к Яндекс.Ключ, то отобразится QR код.
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F1zOosC2CTOILDRF1eoGc%2Fuploads%2FaBSUKZHCbj0iZTe7GixK%2Fimage.png?alt=media&#x26;token=633a0e74-632a-4254-9b05-a2ca66f557e0" alt="" width="375"><figcaption></figcaption></figure>
 

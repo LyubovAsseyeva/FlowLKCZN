@@ -6,7 +6,7 @@
 
 <details>
 
-<summary>Заявка</summary>
+<summary><strong>Заявка</strong></summary>
 
 ### Информация о текущей  заявке гражданина
 
@@ -34,7 +34,7 @@
 
 <details>
 
-<summary>Обучение</summary>
+<summary><strong>Обучение</strong></summary>
 
 ### **Обучение**
 

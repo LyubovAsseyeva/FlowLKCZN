@@ -39,4 +39,5 @@ description: >-
 5. Посмотрите/скачайте приказ на зачисление/отчисление в блоке "[Обучение](zayavka/stranica-zayavki.md#stranica-zayavki-razdelena-na-4-bloka)".
 6. Посмотрите/скачайте документы гражданина в блоке "[Сканы документов](zayavka/stranica-zayavki.md#stranica-zayavki-razdelena-na-4-bloka)".&#x20;
 7. Также доступен просмотр информации об [успеваемости/посещаемости](rabota-s-zayavkami/informaciya-ob-uspevaemosti-poseshaemosti.md).
+8. Всегда можно посмотреть [ранее одобренные программы](programmy/otobrazhenie-odobrennykh-programm-dlya-roiv.md).&#x20;
 

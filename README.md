@@ -32,6 +32,8 @@ description: >-
 
 {% embed url="https://youtu.be/KloBtbz6C1U" %}
 
+{% embed url="https://rutube.ru/video/206e2ba5b701ef44eb497f18ddc37a21/" %}
+
 ### Начало работы
 
 1. На стартовой странице доступен [Дашборд](dashbord.md) с основной информацией.

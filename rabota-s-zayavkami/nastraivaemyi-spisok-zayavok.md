@@ -65,3 +65,5 @@ description: >-
 {% endhint %}
 
 {% embed url="https://youtu.be/_2ioSTtmvNA" %}
+
+{% embed url="https://rutube.ru/video/042a196a2ffdb32929940c796b855943/" %}
